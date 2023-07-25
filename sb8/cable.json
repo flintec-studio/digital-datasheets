@@ -1,0 +1,19 @@
+{
+  "cable": {
+    "awg": "AWG 24",
+    "jacketMaterial": "Polyurethane",
+    "cableDiameter": "xx",
+    "cableLength": "xx",
+    "shield": "floating",
+    "cableLengths": [
+      {
+        "versions": ["xx", "xx", "xx", "xx"],
+        "length": "xx"
+      },
+      {
+        "versions": ["xx"],
+        "length": "xx"
+      }
+    ]
+  }
+}
