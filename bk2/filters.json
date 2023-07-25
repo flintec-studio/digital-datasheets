@@ -1,13 +1,20 @@
 {
   "filters": {
-    "capacity": [""],
-    "accuracy": [""],
-    "mounting": "",
-    "enviro": "",
-    "sealing": "",
-    "material": "",
-    "surfaceFinish": "",
-    "industrySectors": [""],
+    "capacity": ["200kg", "500kg", "1000kg", "2000kg"],
+    "accuracy": ["GP", "C3"],
+    "approvals": ["CE", "UKCA", "RoHS", "OIML", "NTEP", "ATEX", "FM", "KCS"],
+    "mounting": ["Metric", "Unified"],
+    "enviro": "IP67",
+    "sealing": "Potted",
+    "material": "Stainless steel",
+    "surfaceFinish": "Bead-blasted",
+    "industrySectors": [
+      "Weighing Machinery",
+      "Process Weighing",
+      "Medical",
+      "Industrial & Agricultural Vehicles",
+      "Process Automation & Control"
+    ],
     "tags": ["low-profile", "explosion-proof"]
   }
 }
