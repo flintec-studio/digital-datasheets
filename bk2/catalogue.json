@@ -1,10 +1,9 @@
 {
   "catalogue": {
-    "name": "NAME",
-    "type": "TYPE",
-    "subType": "SUBTYPE",
-    "tags": ["TAG", "TAG"],
-    "slug": "slug",
-    "thumbnail": "xx-thumbnail.webp"
+    "name": "BK2",
+    "type": "Load Cell",
+    "subType": "Beam",
+    "slug": "bk2",
+    "thumbnail": "bk2-thumbnail.webp"
   }
 }
