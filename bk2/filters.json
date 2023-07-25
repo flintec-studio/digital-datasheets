@@ -1,0 +1,13 @@
+{
+  "filters": {
+    "capacity": [""],
+    "accuracy": [""],
+    "mounting": "",
+    "enviro": "",
+    "sealing": "",
+    "material": "",
+    "surfaceFinish": "",
+    "industrySectors": [""],
+    "tags": ["low-profile", "explosion-proof"]
+  }
+}

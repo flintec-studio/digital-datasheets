@@ -1,0 +1,32 @@
+{
+  "wiring": {
+    "diagram": "4-wire.svg",
+    "wireCodes": [
+      {
+        "id": "1",
+        "function": "+ Excitation",
+        "identification": "Green"
+      },
+      {
+        "id": "2",
+        "function": "+ Signal",
+        "identification": "White"
+      },
+      {
+        "id": "3",
+        "function": "- Excitation",
+        "identification": "Black"
+      },
+      {
+        "id": "4",
+        "function": "- Signal",
+        "identification": "Red"
+      },
+      {
+        "id": "5",
+        "function": "Shield",
+        "identification": "Yellow"
+      }
+    ]
+  }
+}
