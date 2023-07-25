@@ -1,0 +1,54 @@
+{
+  "approvals": {
+    "ce": {
+      "id": 1,
+      "name": "CE",
+      "icon": "/approvalIcons/oiml.svg",
+      "url": "https://single-market-economy.ec.europa.eu/single-market/ce-marking_en",
+      "detail": "XXX",
+      "file": "xxx.pdf"
+    },
+    "ukca": {
+      "id": 2,
+      "name": "UKCA",
+      "icon": "/approvalIcons/ukca.svg",
+      "url": "https://single-market-economy.ec.europa.eu/single-market/ce-marking_en",
+      "detail": "XXX."
+    },
+    "oiml": {
+      "id": 3,
+      "name": "OIML",
+      "icon": "/approvalIcons/oiml.svg",
+      "url": "https://www.oiml.org",
+      "detail": "XXX"
+    },
+    "ntep": {
+      "id": 3,
+      "name": "NTEP",
+      "icon": "/approvalIcons/ntep.svg",
+      "url": "https://www.ncwm.com/ntep-certificates",
+      "detail": "XXX"
+    },
+    "atex": {
+      "id": 4,
+      "name": "ATEX",
+      "icon": "/approvalIcons/atex.svg",
+      "url": null,
+      "detail": "XXX"
+    },
+    "fm": {
+      "id": 5,
+      "name": "FM",
+      "icon": "/approvalIcons/fm.svg",
+      "url": "https://www.fmapprovals.com",
+      "detail": "XXX"
+    },
+    "kcs": {
+      "id": 6,
+      "name": "KCS",
+      "icon": "/approvalIcons/kcs.svg",
+      "url": "https://miis.kosha.or.kr/oshci/eng/busi/KCsInfo.do",
+      "detail": "XXX"
+    }
+  }
+}

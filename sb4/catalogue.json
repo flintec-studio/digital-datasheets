@@ -1,0 +1,10 @@
+{
+  "catalogue": {
+    "name": "NAME",
+    "type": "TYPE",
+    "subType": "SUBTYPE",
+    "tags": ["TAG", "TAG"],
+    "slug": "slug",
+    "thumbnail": "xx-thumbnail.webp"
+  }
+}
