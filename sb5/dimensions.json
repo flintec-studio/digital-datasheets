@@ -1,0 +1,41 @@
+{
+  "dimensions": {
+    "unit-1": {
+      "id": 1,
+      "capacities": ["xx", "xx"],
+      "drawing": "xx-dimensions.svg",
+      "dims": {
+        "l1": {
+          "label": "L1",
+          "value": null,
+          "units": "mm",
+          "desc": ""
+        },
+        "l2": {
+          "label": "L2",
+          "value": null,
+          "units": "mm",
+          "desc": ""
+        },
+        "l3": {
+          "label": "L3",
+          "value": null,
+          "units": "mm",
+          "desc": null
+        },
+        "mountingBolts": {
+          "label": "Mounting bolts",
+          "value": "xxx",
+          "units": null,
+          "desc": null
+        },
+        "torque": {
+          "label": "Torque",
+          "value": null,
+          "units": "Nm",
+          "desc": "Torque value assumes oiled threads"
+        }
+      }
+    }
+  }
+}
