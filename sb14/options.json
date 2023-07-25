@@ -1,0 +1,28 @@
+{
+  "options": {
+    "XX-xx": {
+      "id": 1,
+      "model": "XX",
+      "capacity": "xx",
+      "'accuracy": ["XX", "XX", "XX"],
+      "mounting": ["XX", "XX", "XX"],
+      "extra": ["XX"]
+    },
+    "XX-yy": {
+      "id": 2,
+      "model": "XX",
+      "capacity": "yy",
+      "accuracyClass": ["GP", "C3", "C3 MI6"],
+      "mounting": ["BH", "CM", "CU"],
+      "extra": ["XX"]
+    },
+    "XX-zz": {
+      "id": 2,
+      "model": "XX",
+      "capacity": "zz",
+      "accuracyClass": ["XX", "XX", "XX"],
+      "mounting": ["XX", "XX", "XX"],
+      "extra": ["XX"]
+    }
+  }
+}
