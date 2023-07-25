@@ -1,0 +1,55 @@
+{
+  "images": {
+    "front": {
+      "1024px": {
+        "size": "1024px",
+        "primary": "xx-front-1024.webp",
+        "fallback": "xx-front-1024.jpg"
+      },
+      "512px": {
+        "size": "512px",
+        "primary": "xx-front-512.webp",
+        "fallback": "xx-front-512.jpg"
+      },
+      "256px": {
+        "size": "256px",
+        "primary": "xx-front-256.webp",
+        "fallback": "xx-front-256.jpg"
+      }
+    },
+    "back": {
+      "1024px": {
+        "size": "1024px",
+        "primary": "xx-back-1024.webp",
+        "fallback": "xx-back-1024.jpg"
+      },
+      "512px": {
+        "size": "512px",
+        "primary": "xx-back-512.webp",
+        "fallback": "xx-back-512.jpg"
+      },
+      "256px": {
+        "size": "256px",
+        "primary": "xx-back-256.webp",
+        "fallback": "xx-back-256.jpg"
+      }
+    },
+    "side": {
+      "1024px": {
+        "size": "1024px",
+        "primary": "xx-side-1024.webp",
+        "fallback": "xx-side-1024.jpg"
+      },
+      "512px": {
+        "size": "512px",
+        "primary": "xx-side-512.webp",
+        "fallback": "xx-side-512.jpg"
+      },
+      "256px": {
+        "size": "256px",
+        "primary": "xx-side-256.webp",
+        "fallback": "xx-side-256.jpg"
+      }
+    }
+  }
+}

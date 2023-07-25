@@ -1,0 +1,136 @@
+{
+  "accuracy": {
+    "gp": {
+      "name": "General Purpose (GP)",
+      "detail": "The general purpose version does not meet the OIML requirements.",
+      "specs": {
+        "maxCapacities": {
+          "id": "gp-maxCapacities",
+          "name": "Maximum Capacity",
+          "units": "xx",
+          "value": ["xx", "xx", "xx", "xx", "xx"]
+        },
+        "maxVerIntervals": {
+          "id": "gp-maxVerIntervals",
+          "name": "Max number of verification intervals (nmax)",
+          "units": null,
+          "value": null
+        },
+        "minVerInterval": {
+          "id": "gp-minVerInterval",
+          "name": "Minimum load cell verification interval",
+          "units": null,
+          "value": null
+        },
+        "optionalMinVerInterval": {
+          "id": "gp-optionalMinVerInterval",
+          "name": "Optional minimum load cell verification interval",
+          "units": null,
+          "value": null
+        },
+        "nonLinearity": {
+          "id": "gp-nonLinearity",
+          "name": "Non-linearity",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "hysteresis": {
+          "id": "gp-hysteresis",
+          "name": "Hysteresis",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "creep": {
+          "id": "gp-creep",
+          "name": "Creep error (30 minutes) / DR",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "combinedError": {
+          "id": "gp-combinedError",
+          "name": "Combined Error",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "tempEffectZero": {
+          "id": "gp-tempEffectZero",
+          "name": "Temperature effect on minimum dead load output (TC0)",
+          "units": "%RO/10°C",
+          "value": "± x.xxx"
+        },
+        "tempEffectSense": {
+          "id": "gp-tempEffectSense",
+          "name": "Temperature effect on sensitivity (TCRO)",
+          "units": "%RO/10°C",
+          "value": "± x.xxx"
+        }
+      }
+    },
+    "c3": {
+      "name": "C3",
+      "detail": "Load cell approved to C3 leve, according to OIML.",
+      "specs": {
+        "maxCapacities": {
+          "id": "c3-maxCapacities",
+          "name": "Maximum Capacity",
+          "units": "klb",
+          "value": ["xx", "xx", "xx", "xx"]
+        },
+        "maxVerIntervals": {
+          "id": "c3-maxVerIntervals",
+          "name": "Max number of verification intervals (nmax)",
+          "units": null,
+          "value": "3000"
+        },
+        "minVerInterval": {
+          "id": "c3-optionalMinVerInterval",
+          "name": "Minimum load cell verification interval",
+          "units": null,
+          "value": "Emax / xxx"
+        },
+        "optionalMinVerInterval": {
+          "id": "c3-optionalMinVerInterval",
+          "name": "Optional minimum load cell verification interval",
+          "units": null,
+          "value": "Emax / xxx"
+        },
+        "nonLinearity": {
+          "id": "c3-nonLinearity",
+          "name": "Non-linearity",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "hysteresis": {
+          "id": "c3-hysteresis",
+          "name": "Hysteresis",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "creep": {
+          "id": "c3-creep",
+          "name": "Creep error (30 minutes) / DR",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "combinedError": {
+          "id": "c3-combinedError",
+          "name": "Combined Error",
+          "units": "%RO",
+          "value": "± x.xxx"
+        },
+        "tempZeroEffect": {
+          "id": "c3-tempZeroEffect",
+          "name": "Temperature effect on minimum dead load output (TC0)",
+          "units": "%RO/10°C",
+          "value": "± x.xxx"
+        },
+        "tempSenseEffect": {
+          "id": "c3-tempSenseEffect",
+          "name": "Temperature effect on sensitivity (TCRO)",
+          "units": "%RO/10°C",
+          "value": "± x.xxx"
+        }
+      }
+    }
+  }
+}

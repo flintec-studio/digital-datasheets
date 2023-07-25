@@ -1,0 +1,123 @@
+{
+  "generalSpecs": {
+    "ratedOutput": {
+      "id": "ratedOutput",
+      "type": "output",
+      "name": "Rated output (RO)",
+      "units": "mV/V",
+      "value": "2 ± xx"
+    },
+    "calibration": {
+      "id": "calibration",
+      "type": "output",
+      "name": "Calibration in mV/V/ (A...I classified)",
+      "units": "%",
+      "value": "± x.ss (± x.xxx)"
+    },
+    "zeroBalance": {
+      "id": "zeroBalance",
+      "type": "electrical",
+      "name": "Zero balance",
+      "units": "% of RO",
+      "value": "± xx"
+    },
+    "excitationVoltage": {
+      "id": "excitationVoltage",
+      "type": "electrical",
+      "name": "Excitation voltage",
+      "units": "V",
+      "value": "xx...xx"
+    },
+    "inputResistance": {
+      "id": "inputResistance",
+      "type": "electrical",
+      "name": "Input resistance (RLC)",
+      "units": "Ω",
+      "value": "xxxx ± xx"
+    },
+    "outputResistance": {
+      "id": "outputResistance",
+      "type": "electrical",
+      "name": "Output resistance (Rout)",
+      "units": "Ω",
+      "value": "xx ± xx"
+    },
+    "insulationResistance": {
+      "id": "insulationResistance",
+      "type": "electrical",
+      "name": "Insulation resistance (100 V DC)",
+      "units": "MΩ",
+      "value": "≥ xxxx"
+    },
+    "safeLoadLimit": {
+      "id": "safeLoadLimit",
+      "type": "limits",
+      "name": "Safe load limit (Elim)",
+      "units": "% of Emax",
+      "value": "xx"
+    },
+    "ultimateLoad": {
+      "id": "ultimateLoad",
+      "type": "limits",
+      "name": "Ultimate load",
+      "units": "% of Emax",
+      "value": "xx"
+    },
+    "safeSideLoad": {
+      "id": "safeSideLoad",
+      "type": "limits",
+      "name": "Safe side load",
+      "units": "% of Emax",
+      "value": "xx"
+    },
+    "compTempRange": {
+      "id": "compTempRange",
+      "type": "environmental",
+      "name": "Compensated temperature range",
+      "units": "°C",
+      "value": "–xx...+xx"
+    },
+    "opTempRange": {
+      "id": "opTempRange",
+      "type": "environmental",
+      "name": "Operating temperature range",
+      "units": "°C",
+      "value": "–xx...+xx"
+    },
+    "atexOpTempRange": {
+      "id": "atexOpTempRange",
+      "type": "environmental",
+      "name": "ATEX operating temperature range",
+      "units": "°C",
+      "value": "–xx...+xx"
+    },
+    "sealing": {
+      "id": "sealing",
+      "type": "environmental",
+      "name": "Sealing",
+      "units": null,
+      "value": "Cable entry hermetically sealed by glass to metal header"
+    },
+    "ipRating": {
+      "id": "ipRating",
+      "type": "environmental",
+      "name": "Protection according to EN 60 529",
+      "units": null,
+      "value": "xx"
+    },
+    "material": {
+      "id": "material",
+      "type": "material",
+      "name": "Load cell body",
+      "units": null,
+      "value": "xx"
+    },
+    "surfaceFinish": {
+      "id": "surfaceFinish",
+      "type": "material",
+      "name": "Surface finish",
+      "units": null,
+      "value": "xx"
+    }
+  }
+}
