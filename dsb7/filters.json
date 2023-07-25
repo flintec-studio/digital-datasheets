@@ -1,14 +1,17 @@
 {
   "filters": {
-    "capacity": [""],
-    "accuracy": [""],
-    "approvals": [""],
-    "mounting": [""],
-    "enviro": "",
-    "sealing": "",
-    "material": "",
-    "surfaceFinish": "",
-    "industrySectors": [""],
+    "capacity": ["2t", "7.5t", "15t", "25t"],
+    "accuracy": ["GP"],
+    "approvals": ["CE", "RoHS"],
+    "mounting": ["Metric"],
+    "enviro": "IP68",
+    "sealing": "Hermetic",
+    "material": "Stainless steel",
+    "surfaceFinish": "Bead-blasted",
+    "industrySectors": [
+      "Weighing Machinery",
+      "Industrial & Agricultural Vehicles"
+    ],
     "tags": ["low-profile", "explosion-proof"]
   }
 }
