@@ -1,10 +1,10 @@
 {
   "catalogue": {
-    "name": "NAME",
-    "type": "TYPE",
-    "subType": "SUBTYPE",
-    "tags": ["TAG", "TAG"],
-    "slug": "slug",
-    "thumbnail": "xx-thumbnail.webp"
+    "name": "DSB7",
+    "type": "Load Cell",
+    "subType": "Beam",
+    "tags": ["low-profile", "On-board vehicle weighing"],
+    "slug": "dsb7",
+    "thumbnail": "dsb7-thumbnail.webp"
   }
 }
