@@ -1,9 +1,25 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the DSB7 range of double-ended shear beam load cells, expertly crafted to cater to the stringent requirements of industrial vehicles and agricultural machinery. Designed for high accuracy and exceptional payload control in demanding conditions, the DSB7 series proves to be a reliable companion in various applications. Its cutting-edge engineering ensures precision even under heavy loads.",
+      "Embodying a remarkably low-profile design, the DSB7 load cells offer unparalleled versatility, facilitating seamless integration into onboard vehicle weighing systems. This allows for a myriad of installation options, empowering our customers with greater flexibility and ease of use. With the DSB7 range at your disposal, achieve precise and efficient load management for your industrial and agricultural endeavours."
+    ],
+    "keyFeatures": [
+      "Corrosion resistant stainless steel",
+      "Hermetically sealed",
+      "Low profile",
+      "Designed for on-board vehicle weighing"
+    ],
+    "applications": [
+      "Refuse collection vehicles",
+      "Tipper trucks",
+      "Agricultural mixers and spreaders",
+      "Trailers"
+    ],
+    "options": ["Thru end holes", "Weld block", "Spacer"],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
