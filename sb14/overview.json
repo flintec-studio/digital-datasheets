@@ -1,9 +1,30 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Meet the SB14, an exceptional high-accuracy, low-profile bending beam engineered with a wide array of capacities to suit your diverse needs. Boasting full stainless-steel construction and hermetic sealing, this remarkable load cell guarantees unwavering accuracy and unparalleled robustness, even in the harshest industrial environments.",
+      "Designed to excel in high accuracy weighing platforms, the SB14's blind-hole load introduction arrangement, in combination with self-aligning feet, establishes it as the ultimate choice. Embrace the confidence of precise measurements and seamless performance with the SB14, elevating your industrial applications to new heights of efficiency and dependability."
+    ],
+    "keyFeatures": [
+      "Stainless steel construction",
+      "Hermetically sealed to IP68",
+      "Wide capacity range from 500lb to 10,000lb (227kg to 4,536kg)",
+      "High accuracy",
+      "Unique blind loading hole",
+      "High input resistance",
+      "Calibration in mV/V/Ω"
+    ],
+    "applications": [
+      "Industrial platform scales",
+      "Pallet truck scales",
+      "Vessel and tank weighing systems"
+    ],
+    "options": [
+      "Y = 23,000 for C3 and C3 MI6 (for 500lb to 5klb)",
+      "Stainless steel cable gland"
+    ],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
