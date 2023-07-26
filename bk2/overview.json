@@ -1,9 +1,26 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the BK2, Flintec's robust and purpose-built shear-beam load cell, tailored for low-profile and space-restrictive industrial and medical weighing applications. Crafted to withstand even the harshest industrial conditions, this load cell exemplifies unwavering resilience without compromising on accuracy.",
+      "Certified to meet OIML and NTEP standards, the BK2 load cell guarantees precise and reliable measurements, making it the trusted choice for professionals seeking accuracy and durability. From industrial settings to medical environments, this load cell is engineered to excel, offering a seamless fusion of cutting-edge technology and steadfast performance. "
+    ],
+    "keyFeatures": [
+      "Stainless steel construction",
+      "Environmentally sealed by potting",
+      "Low profile",
+      "Wide range of capacities"
+    ],
+    "applications": [
+      "Platform weighing machines",
+      " pallet truck scales",
+      "tank and vessel weighing systems",
+      "conveyor scales",
+      "patient weighing systems"
+    ],
+    "options": ["Metric threads", "Unified threads"],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
