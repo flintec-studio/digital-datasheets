@@ -1,10 +1,10 @@
 {
   "catalogue": {
-    "name": "NAME",
-    "type": "TYPE",
-    "subType": "SUBTYPE",
-    "tags": ["TAG", "TAG"],
-    "slug": "slug",
-    "thumbnail": "xx-thumbnail.webp"
+    "name": "SB2",
+    "type": "Load Cell",
+    "subType": "Beam",
+    "tags": ["High Capacity", "Industrial Weighing", "Robust Design"],
+    "slug": "sb2",
+    "thumbnail": "sb2-thumbnail.webp"
   }
 }
