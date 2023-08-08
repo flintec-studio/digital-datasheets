@@ -1,9 +1,29 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Presenting the SB6: a unique bending beam load cell, meticulously designed for diverse high-accuracy weighing applications. Crafted entirely from stainless steel and hermetically sealed, the SB6 embodies unwavering durability and precision. With a versatile range of capacities and accuracy grades, the SB6 caters to a broad spectrum of requirements.",
+      "Furthermore, the SB6 excels through a blind hole load introduction mechanism, pairing seamlessly with Flintec's self-aligning feet to ensure consistent and optimal weighing performance."
+    ],
+    "keyFeatures": [
+      "Stainless steel construction",
+      "Hermetically sealed to IP68",
+      "Low capacity range",
+      "High accuracy",
+      "High input resistance",
+      "Calibration in mV/V/Ω"
+    ],
+    "applications": [
+      "Bagging machinery",
+      "Conveyor scales",
+      "Vessel weighing systems"
+    ],
+    "options": [
+      "Y = 20,400 for C3, C3 MI6 and C4",
+      "Stainless steel cable gland"
+    ],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
