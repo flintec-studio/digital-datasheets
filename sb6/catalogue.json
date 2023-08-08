@@ -1,10 +1,10 @@
 {
   "catalogue": {
-    "name": "NAME",
-    "type": "TYPE",
-    "subType": "SUBTYPE",
-    "tags": ["TAG", "TAG"],
-    "slug": "slug",
-    "thumbnail": "xx-thumbnail.webp"
+    "name": "SB6",
+    "type": "Load Cell",
+    "subType": "Beam",
+    "tags": ["High Accuracy", "Low Capacity"],
+    "slug": "sb6",
+    "thumbnail": "sb6-thumbnail.webp"
   }
 }
