@@ -1,9 +1,26 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the SB2 heavy-duty shear beam load cell range, purpose-built to excel in demanding environments, from steel processing systems to a spectrum of industrial applications. With a design that prioritizes robustness, the SB2 stands as the prime choice for high-capacity ladle weighing systems, coil weighers, and platform scales, among others. Its inherent strength ensures seamless operation even in the most challenging conditions.",
+      "Engineered to endure the harshest environments, the SB2 load cell features hermetic sealing and a resilient paint coating, offering steadfast performance in diverse settings. Elevate your applications to unmatched levels of precision and reliability with the SB2, embodying performance that refuses to compromise."
+    ],
+    "keyFeatures": [
+      "Tool steel construction",
+      "Hermetically sealed to IP68",
+      "Painted finish",
+      "High capacity beam up to 45t",
+      "Unique blind loading hole",
+      "Calibration in mV/V/Ω"
+    ],
+    "applications": [
+      "High capacity industrial platform scales",
+      "Ladle weighing systems",
+      "Coil weighing systems"
+    ],
+    "options": [null],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
