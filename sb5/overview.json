@@ -1,9 +1,27 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the SB5: a highly accurate, low-profile bending beam load cell, available in a wide range of capacities. Constructed with full stainless steel and advanced potting for exceptional performance, the SB5 ensures reliable accuracy and robustness in rugged industrial applications, where complete hermetic sealing is unnecessary. Ideal for precision weighing platforms, the SB5 seamlessly integrates a blind-hole load introduction arrangement with self-aligning feet.",
+      "Fully interchangeable with the hermetically sealed SB4, the SB5 exemplifies our commitment to consistent performance and versatility across models. When demanding applications require unparalleled  accuracy without the need for full hermetic sealing, the SB5 emerges as the prime choice, offering durable performance in varied contexts."
+    ],
+    "keyFeatures": [
+      "Stainless steel construction",
+      "Low profile design",
+      "Environmentally sealed by potting",
+      "Wide range of capacities",
+      "High accuracy",
+      "Unique blind loading hole",
+      "Calibration in mV/V/Ω"
+    ],
+    "applications": [
+      "Industrial platform scales",
+      "Pallet truck scales",
+      "Vessel and tank weighing systems"
+    ],
+    "options": [null],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
