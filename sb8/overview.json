@@ -1,9 +1,25 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the SB8 Bending Beam: a meticulously engineered solution designed to redefine precision in load measurement. With an extensive capacity spectrum spanning 50kg to 500kg, this all-stainless-steel unit accommodates a diverse range of applications. Its hermetically sealed construction ensures uncompromised durability in any environment.",
+      "The SB8's compact form factor establishes it as the ultimate candidate for multi-head weighing apparatus, as well as low-capacity vessel and hopper weighing configurations. Experience the synergy of pioneering design and steadfast functionality with the SB8 Bending Beam – engineering excellence in action."
+    ],
+    "keyFeatures": [
+      "Stainless steel construction",
+      "Hermetically sealed to IP68",
+      "Wide capacity range from 10kg to 500kg",
+      "High accuracy",
+      "Calibration in mV/V/Ω"
+    ],
+    "applications": [
+      "Bagging machinery",
+      "Conveyor scales",
+      "Vessel and hopper weighing systemsX"
+    ],
+    "options": [null],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
