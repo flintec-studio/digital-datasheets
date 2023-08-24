@@ -1,9 +1,36 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the SLB Beam Load Cell: a stainless-steel bending beam built for accuracy and versatility. Sealed against environmental challenges (rated IP67), it delivers a cost-effective solution for a variety of weighing needs. With diverse load introduction options, the SLB load cell features a unique blind-hole design that seamlessly integrates with complementary mounting accessories, such as our self-aligning load feet. This synergy fosters a broad spectrum of setups, and helps deliver top-tier accuracy and performance.",
+      "From industrial scales to patient setups like ICU beds, the SLB finds its place across diverse applications. Holding multiple approvals, including OIML and NTEP, as well as ATEX and FM hazardous area endorsements, it's primed for reliability.",
+      "Built to be tough, the SLB load cell suits industrial scales perfectly, with capacities ranging from 200lb to 5,000lb (91kg to 2,268kg). It's equipped with high input resistance and compatibility with a range of application hardware and electronics, assuring precision and reliability in every use case."
+    ],
+    "keyFeatures": [
+      "Stainless steel construction",
+      "Environmentally sealed by potting to IP67",
+      "High accuracy",
+      "Ideal for industrial platform scales",
+      "Wide range of capacities from 200lb to 5,000lb (91kg to 2,268kg)",
+      "Unique blind loading hole",
+      "High input resistance",
+      "Calibration in mV/V/Ω"
+    ],
+    "applications": [
+      "Platform weighing machines",
+      "Pallet truck scales",
+      "Tank and vessel weighing systems",
+      "Conveyor scales",
+      "Intensive care beds",
+      "Wheelchair scales"
+    ],
+    "options": [
+      "Blind-hole version",
+      "Metric thread version",
+      "Unified thread version"
+    ],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
