@@ -1,9 +1,27 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the SB9 Beam Load Cell: an embodiment of industrial precision tailored for platform scales and related applications. Featuring industry-standard size, bolt-hole centers, and wiring, the SB9 is designed for industrial settings that necessitate durability without full hermetic sealing. Notably, the 250kg capacity SB9 emerges as an optimal choice for creating sturdy yet low-capacity industrial weighing equipment, such as platform scales and pallet truck weighing systems.",
+      "Built from stainless steel, the SB9 offers enhanced robustness compared to alloy steel potted load cells. Its low-profile design aligns seamlessly with industrial platform scales, and with capacities ranging from 250kg to 2,000kg, it stands ready to meet varied demands. The SB9 bears OIML approval to C3, further underlining its reliability, while its compatibility with a range of hardware and electronics enhances its adaptability."
+    ],
+    "keyFeatures": [
+      "Stainless steel construction",
+      "Environmentally sealed by potting to IP67",
+      "High accuracy",
+      "Calibration in mV/V/Ω",
+      "Low profile design ideal for industrial platform scales",
+      "Capacities from 250kg to 2,000kg"
+    ],
+    "applications": [
+      "Industrial platform scales",
+      "IBC bagging machinery",
+      "Pallet truck scales",
+      "Vessel and tank weighing systems"
+    ],
+    "options": ["Blind-hole version", "Thru-hole version"],
+    "accessories": [
+      "Compatible range of hardware",
+      "Compatible range of electronics"
+    ]
   }
 }
