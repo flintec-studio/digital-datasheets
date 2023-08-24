@@ -1,10 +1,10 @@
 {
   "catalogue": {
-    "name": "NAME",
-    "type": "TYPE",
-    "subType": "SUBTYPE",
-    "tags": ["TAG", "TAG"],
-    "slug": "slug",
-    "thumbnail": "xx-thumbnail.webp"
+    "name": "SBT",
+    "type": "Load Cell",
+    "subType": "Beam",
+    "tags": ["On-board Vehicle Weighing", "Rugged Design", "Double-Ended Beam"],
+    "slug": "sbt",
+    "thumbnail": "sbt-thumbnail.webp"
   }
 }
