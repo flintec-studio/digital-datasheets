@@ -1,9 +1,28 @@
 {
   "overview": {
-    "description": ["XX"],
-    "keyFeatures": ["XX", "XX", "XX", "XX", "XX", "XX", "XX"],
-    "applications": ["XX", "XX", "XX"],
-    "options": ["XX", "XX"],
-    "accessories": ["XX", "XX"]
+    "description": [
+      "Introducing the SBT Beam Load Cell, designed for the challenges of on-board vehicle weighing applications. Constructed from rugged alloy steel and sealed with robust potting, it's primed for heavy-duty vehicle environments. Mounting it under vehicles and trailers is straightforward.",
+      "The SBT handles substantial loads beyond its capacity, and the SBT-B variant offers equivalent Unified mounting holes along with an alternate cable. Both versions cater to a range of on-board vehicle weighing scenarios, from tipper trucks to agricultural trailers.",
+      "Both the SBT and SBT-B feature robust tool steel construction, IP68 sealing, and an electroless nickel-plated finish. With a 10,000kg capacity, they deliver accurate on-board vehicle weighing."
+    ],
+    "keyFeatures": [
+      "Tool steel construction",
+      "Environmentally sealed by potting to IP68",
+      "Electroless nickel-plated finish",
+      "Designed for on-board vehicle weighing",
+      "Capacity of 10,000kg"
+    ],
+    "applications": [
+      "Tipper trucks and tipping trailers",
+      "Bulk tanker vehicles",
+      "Agricultural trailers",
+      "Waste collection vehicles",
+      "General agricultural machinery"
+    ],
+    "options": ["Metric SBT version", "Unified SBT-B version"],
+    "accessories": [
+      "M24x2.0-6H mounting bolts",
+      "Compatible range of electronics"
+    ]
   }
 }
